@@ -32,4 +32,4 @@ Hi, I'm *Krislyn*! I am 19 years old and currently studying for a B.S. in Accoun
 
 <h1 align="center">Contact Information</h1>
 
-<h1 align="center">Contact Information</h1> Email: kvillanueva@addu.edu.ph | villanuevakrislynkaye@gmail.com
+<h1 align="center">Email: kvillanueva@addu.edu.ph | villanuevakrislynkaye@gmail.com</h1> 
