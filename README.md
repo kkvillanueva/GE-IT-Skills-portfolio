@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kkvillanueva/GE-IT-Skills-portfolio/blob/main/Banner.png?raw=true" width="750px"/>
+  <img src="https://github.com/kkvillanueva/GE-IT-Skills-portfolio/blob/main/Banner.png?raw=true" width="650"/>
 </p>
 
 ---
@@ -22,7 +22,7 @@ Hi, I'm *Krislyn*! I am 19 years old and currently studying for a B.S. in Accoun
 - Assisted in the development of the branding kit for S.Y. 2025-2026
 - Designed several publication materials for the organization's Facebook page.
 
-### Director of Creative Media | **The ABM Executives** (2023-2025
+### Director of Creative Media | **The ABM Executives** (2023-2025)
 - Designed several publication materials, presentation decks, and event brand kits for the organization.
   - *Including:* Money Matters: Financial Literacy Seminar 2024, ABM Bazaar 2024, ABM Fest 2024, Sanhay Bazaar 2025, Project A.S.S.E.T. 2025, and ABM Night 2025.
 - Managed the organization's Facebook page by developing a content calendar and an automated FAQ reply system.
