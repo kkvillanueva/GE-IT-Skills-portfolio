@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://github.com/kkvillanueva/GE-IT-Skills-portfolio/blob/main/Banner.png?raw=true" width="80%"/>
+  <img src="https://github.com/kkvillanueva/GE-IT-Skills-portfolio/blob/main/Banner.png?raw=true" width="750px"/>
 </p>
 
 ---
 
-<h1 align="center">About Me</h1>
+<h1 align="center">ABOUT ME</h1>
 
 Hi, I'm *Krislyn*! I am 19 years old and currently studying for a B.S. in Accountancy at Ateneo de Davao University. Aside from my interest in business and finance, I have a strong passion for art and design. I have served in the Creatives Committee across different school organizations in order to express my creativity with others.
 
 ---
 
-<h1 align="center">Experience</h1>
+<h1 align="center">EXPERIENCE</h1>
 
 ### Graphics Team Member | **Samahan Creative Team** (2025-Present)
 - Served as Assistant Graphics Head during "Experience Ateneo 2026"
@@ -30,6 +30,7 @@ Hi, I'm *Krislyn*! I am 19 years old and currently studying for a B.S. in Accoun
 
 ---
 
-<h1 align="center">Contact Information</h1>
-
-<h1 align="center">Email: kvillanueva@addu.edu.ph | villanuevakrislynkaye@gmail.com</h1> 
+<h1 align="center">CONTACT</h1>
+<p align="center">
+  Email: kvillanueva@addu.edu.ph | villanuevakrislynkaye@gmail.com
+</p>
