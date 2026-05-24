@@ -6,7 +6,7 @@
 
 <h1 align="center">ABOUT ME</h1>
 
-Hi, I'm *Krislyn*! I am 19 years old and currently studying for a B.S. in Accountancy at Ateneo de Davao University. Aside from my interest in business and finance, I have a strong passion for art and design. I have served in the Creatives Committee across different school organizations in order to express my creativity with others.
+Hi, I'm *Krislyn*! I am 19 years old and a B.S. Accountancy student at Ateneo de Davao University. Aside from my interest in business and finance, I have a strong passion for art and design. I have served in the Creatives Committee across different school organizations in order to express my creativity with others.
 
 ---
 
