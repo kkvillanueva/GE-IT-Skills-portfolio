@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kkvillanueva/GE-IT-Skills-portfolio/blob/main/Branding%20Kit/Profile%20Banner.png?raw=true" width="100%"/>
+  <img src="https://raw.githubusercontent.com/kkvillanueva/GE-IT-Skills-portfolio/refs/heads/main/visuals/Profile%20Banner.png" width="100%"/>
 </p>
 
 ---
