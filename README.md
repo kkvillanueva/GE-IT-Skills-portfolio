@@ -1,4 +1,4 @@
-<p align="center">
+<img width="4000" height="1000" alt="image" src="https://github.com/user-attachments/assets/0af39f67-ad1f-49fb-bcf7-b72435537ded" /><img width="4000" height="1000" alt="image" src="https://github.com/user-attachments/assets/07c50c10-4f11-4a9b-8469-4598b102195d" /><p align="center">
   <img src="https://raw.githubusercontent.com/kkvillanueva/GE-IT-Skills-portfolio/refs/heads/main/visuals/Profile%20Banner.png" width="100%"/>
 </p>
 
@@ -87,6 +87,35 @@ I prompted ChatGPT to create a literature review about post-harvest losses that 
 
 #### 2. Critical Reflection on Tool Limitations
 Although ChatGPT was able to generate several statistics in just a few seconds,  majority of the sources provided were not up to date or based on figures for the current year. I noticed that all of the links given gave me figures that were from 2024, which could mean that it takes several years for current information to reach its database. Additionally, this A.I. mostly gave me news articles as references. Even though they are from reputable institutions like GMA Network, I would have preferred that research journals, academic papers, or official government documents were used instead. Overall, it did help cut back on the time I would've spent trying to figure out what facts were necessary for the literature review.
+
+---
+
+### Data Analytics & Visual Report
+
+#### Dataset Focus: Population of Rice Farmers and Their Sources of Post-Harvest Losses
+
+#### 1. Data Cleaning Protocol Log
+a. [**Population of Rice Farmers**](https://github.com/kkvillanueva/GE-IT-Skills-portfolio/blob/main/ai/Unedited%20Population%20of%20Rice%20Farmers.csv)
+- **Raw Input Problem:** The format for the population of rice farmers is hard to read and poorly organized.
+- **AI Cleaning Instruction:** Identify all the rows per province and municipality excluding the TOTAL row. Rearrange the data using the following headers: Province | Municipality | Number of Rice Farmers. Repeat the province name (Davao Oriental, del Sur, del Norte, de Oro) for each municipality under it.
+- [**Result**](https://github.com/kkvillanueva/GE-IT-Skills-portfolio/blob/main/ai/Population_of_Rice_Farmers_Clean.csv)
+
+b. [**Factors of Post Harvest Losses**](https://github.com/kkvillanueva/GE-IT-Skills-portfolio/blob/main/ai/Unedited%20Factors%20of%20PostHarvest%20Losses.csv)
+- **Raw Input Problem:** The arrangement of data for the factors and sources of post-harvest losses is hard to read and has multiple missing rows and columns.
+- **AI Cleaning Instruction:** Reorganize the data using the following columns: Factor Category | Source/Cause | Percentage. Repeat the factor category for every row and do not leave blank ells. Do not make the percentages decimals and do not perserve the original report formatting. Place 
+- [**Result**](https://github.com/kkvillanueva/GE-IT-Skills-portfolio/blob/main/ai/Factors_of_PostHarvest_Losses_Clean.csv)
+
+#### 2. Visualizations Generated
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kkvillanueva/GE-IT-Skills-portfolio/refs/heads/main/ai/graphs/Population%20of%20Rice%20Farmers.png" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kkvillanueva/GE-IT-Skills-portfolio/refs/heads/main/ai/graphs/Factors%20of%20Postharvest%20Losses.png" width="100%"/>
+</p>
+
+#### 3. Human Analytical Narrative (The 'Why' Factor)
+The data shows that the majority of rice farmers from Davao Oriental, Davao del Sur, Davao del Norte, and Davao de Oro come from Banaybanay, Matano, Asuncion, and Mawab respectively. On the contrary, the municipalities with the least amount of rice farmers are Boston, Malita/Sta. Cruz, Panabo, and Maco, respectively. The provinces with the greatest disparity is Davao del Norte, with the population ranging from 17 (0.1%) to 3,561 (29%). The graphs also show that more urbanized areas such as Davao City, Tagum, Panabo, and Digos City generally have a lower population of rice farmers as opposed to more rural municipalities. Among the four main factors of post-harvest losses of these rice farmers, pest infestations, grain loss during threshing, and harsh weather conditions rank as the leading causes within each category.
 
 ---
 
