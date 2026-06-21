@@ -1,4 +1,4 @@
-<img width="4000" height="1000" alt="image" src="https://github.com/user-attachments/assets/0af39f67-ad1f-49fb-bcf7-b72435537ded" /><img width="4000" height="1000" alt="image" src="https://github.com/user-attachments/assets/07c50c10-4f11-4a9b-8469-4598b102195d" /><p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/kkvillanueva/GE-IT-Skills-portfolio/refs/heads/main/visuals/Profile%20Banner.png" width="100%"/>
 </p>
 
