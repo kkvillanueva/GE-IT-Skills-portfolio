@@ -94,7 +94,7 @@ Although ChatGPT was able to generate several statistics in just a few seconds, 
 
 #### Dataset Focus: Population of Rice Farmers and Their Sources of Post-Harvest Losses
 
-#### 1. Data Cleaning Protocol Log
+#### 1. Data Cleaning Protocol Log ([*Data Source*](https://ijrti.org/papers/IJRTI2307148.pdf))
 a. [**Population of Rice Farmers**](https://github.com/kkvillanueva/GE-IT-Skills-portfolio/blob/main/ai/Unedited%20Population%20of%20Rice%20Farmers.csv)
 - **Raw Input Problem:** The format for the population of rice farmers is hard to read and poorly organized.
 - **AI Cleaning Instruction:** Identify all the rows per province and municipality excluding the TOTAL row. Rearrange the data using the following headers: Province | Municipality | Number of Rice Farmers. Repeat the province name (Davao Oriental, del Sur, del Norte, de Oro) for each municipality under it.
