@@ -42,6 +42,8 @@ Hi, I'm *Krislyn*! I am 19 years old and a B.S. Accountancy student at Ateneo de
 
 ---
 
+<h1 align="center">AI EXPLORATION</h1>
+
 ### Davao Region Localized Communication Prompt System
 
 #### 1. System Prompt Template (V3 - Final Optimized)
@@ -66,6 +68,25 @@ Format: Output in clear markdown with the following structure: Situation Overvie
 <p align="center">
   <img src="https://raw.githubusercontent.com/kkvillanueva/GE-IT-Skills-portfolio/refs/heads/main/ai/Branding%20Asset.png" width="50%"/>
 </p>
+
+---
+
+### Review of Related Literature Verification Log
+
+#### Topic: Post-Harvest Loss Reduction in the Davao Region Agricultural Value Chain
+
+#### 1. AI-Generated Summary Audit
+I prompted ChatGPT to create a literature review about post-harvest losses that mainly focuses on the transportation/delivery process and storage facilities within Davao Region to further explain why there is a need to take action to reduce them.
+
+| AI-Generated Statement / Citation | Source Vetted Against | Status | Human Correction / Empirical Note |
+| :--- | :--- | :--- | :--- |
+| "Approximately 30% of agricultural produce, particularly vegetables and fruits, is lost due to poor logistics systems." | [Department of Agriculture - GMA News Online](https://www.gmanetwork.com/news/money/economy/894307/da-30-of-ph-produce-wasted-due-to-poor-logistics/story/?utm_source=chatgpt.com) | **Verified** | Link leads to an article from a reliable news source that cites a notable figure (Agriculture Secretary) to back up its statistics |
+| "Due to the introduction of the new Davao Food Terminal, post-harvest losses in Davao Region have been completely eliminated." | [Davao City Government](https://davaocity.gov.ph/agriculture/dost-itdi-cagro-upgrades-dftc-with-state-of-the-art-equipment-and-facility/?utm_source=chatgpt.com) |  **Hallucination** | Misinterpreted the goal of the Food Terminal Project as the actual impact. It only reduces losses, NOT eliminate it entirely. |
+| "Although Davao has improved facilities, officials acknowledged that more dry storage and cold chain infrastructure are still needed before the Davao Food Terminal Complex can operate at full capacity." | [Davao City Government](https://davaocity.gov.ph/agriculture/dost-itdi-cagro-upgrades-dftc-with-state-of-the-art-equipment-and-facility/?utm_source=chatgpt.com) |  **Verified** | Link leads to the official gov.ph website of Davao City. However, this was published during 2024 so this may not be an issue anymore. No sources/articles provide an update on this regard. |
+| "Notably, Region XI currently has the lowest post-harvest loss rate within the Philippines" | No Source Linked | **Hallucination** | No source provided for the statistic, no research/data/reports back up this claim |
+
+#### 2. Critical Reflection on Tool Limitations
+Although ChatGPT was able to generate several statistics in just a few seconds,  majority of the sources provided were not up to date or based on figures for the current year. I noticed that all of the links given gave me figures that were from 2024, which could mean that it takes several years for current information to reach its database. Additionally, this A.I. mostly gave me news articles as references. Even though they are from reputable institutions like GMA Network, I would have preferred that research journals, academic papers, or official government documents were used instead. Overall, it did help cut back on the time I would've spent trying to figure out what facts were necessary for the literature review.
 
 ---
 
