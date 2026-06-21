@@ -42,6 +42,33 @@ Hi, I'm *Krislyn*! I am 19 years old and a B.S. Accountancy student at Ateneo de
 
 ---
 
+### Davao Region Localized Communication Prompt System
+
+#### 1. System Prompt Template (V3 - Final Optimized)
+
+**Reusable System Prompt**
+"Act as a Senior Public Sector Planning Officer assigned in the Davao LGU Working Group who specializes in aiding and developing the agricultural sector in the region.
+
+Context: Local farmers in Davao del Norte are experiencing many post-harvest losses due to inconsistent transportation schedules, limited access to cold storage facilities, and unpredictable weather conditions along key delivery routes.
+Constraints: Maintain a professional and policy-oriented tone suitable for government communication. Do NOT reference international markets or foreign case studies. Focus ONLY on the local infrastructure (barangay roads, provincial highways, and storage facilities). Avoid jargon or overly academic language. Ensure recommendations are realistic and practical at the regional level while following the budget
+Format: Output in clear markdown with the following structure: Situation Overview (paragraph), Current Issues/Constraints (bullet points), and Interventions (exactly 3 feasible steps). Provide headings "###" per main section."
+
+#### 2. Prompt Battle Ledger
+| Version | Prompt Modifier Added | Output Quality Reflection |
+| :--- | :--- | :--- |
+| V1 | "Prepare a plan to help minimize farmers' post-harvest losses." | Very broad. Brought up issues from other regions and municipalities instead of Davao. |
+| V2 | Added role in the Davao Region LGU and specific tone/language required | Output is now more focuse on Davao. However, it only generates an entire paragraph with no subheadings. |
+| V3 | Specified exact format of the final output with subheadings | Final prompt. Follows the exact formatting and output instructions. |
+
+#### 3. Visual Branding Asset
+- **Engine Used:** Nano Banana 2
+- **Visual Prompt:** "A flat vector emblem that features a crate containing fresh produce in the VERY CENTER that is surrounded by different transport routes/roads behind it. The outer circle should state the words "Davao Region * Post-Harvest Losses Reduction Program *" in a bold serif font and it should be wrapped in a rope-like pattern like the existing Davao City LGU emblem. Use clean geometric shapes and balanced proportions. NONE of the assets should have black outlines. Use ONLY leaf green, dirt brown, muted blue, and gold as the color palette, DO NOT use any other colors besides these. Follow the style of existing government emblems. The final icon should appear professional and suitable for official LGU documents."
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kkvillanueva/GE-IT-Skills-portfolio/refs/heads/main/ai/Branding%20Asset.png" width="50%"/>
+</p>
+
+---
+
 <h1 align="center">CONTACT</h1>
 <p align="center">
   Email: kvillanueva@addu.edu.ph | villanuevakrislynkaye@gmail.com
