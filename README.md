@@ -39,6 +39,7 @@ Hi, I'm [*Krislyn*](https://github.com/kkvillanueva/GE-IT-Skills-portfolio/blob/
 | <img src="https://raw.githubusercontent.com/kkvillanueva/GE-IT-Skills-portfolio/refs/heads/main/docs/Infographic.png" width="850"> | <h3>Infographic</h3>- This infographic features my research from Grade 10 during S.Y. 2022-2023 <br>- Since the main topic of the research was TOMATOES, the color palette blended in seamlessly |
 | [View Prototype Here](https://canva.link/villanuevakprototype) | <h3>Desktop Prototype</h3>- The desktop prototype serves as a portfolio for my creative projects. <br>- The design is essentially the same as the C.R.A.P. presentation. <br>- The examples page features actual projects made by me from the school organizations I joined previously. |
 | [Watch video here](https://drive.google.com/file/d/1VXTK82-i0Dnp03N4WiiMdtmnCNPUHIxL/view?usp=drivesdk) | <h3>Interactive Interaction - Video</h3>- The video showcases the same examples as the desktop prototype<br>- The inspiration for the showcase reel was [here](https://www.facebook.com/share/v/1CcE5PKQ4v/). |
+| [Watch video here](https://drive.google.com/file/d/1saS97eoeyaZYd7YbgOoIT2Yv0D8rse8m/view?usp=sharing) | <h3>Google Workspace Demonstration</h3>- Short video demonstrating the basics of using different Google Workspace Tools. |
 
 ---
 
