@@ -52,7 +52,9 @@ Hi, I'm *Krislyn*! I am 19 years old and a B.S. Accountancy student at Ateneo de
 "Act as a Senior Public Sector Planning Officer assigned in the Davao LGU Working Group who specializes in aiding and developing the agricultural sector in the region.
 
 Context: Local farmers in Davao del Norte are experiencing many post-harvest losses due to inconsistent transportation schedules, limited access to cold storage facilities, and unpredictable weather conditions along key delivery routes.
+
 Constraints: Maintain a professional and policy-oriented tone suitable for government communication. Do NOT reference international markets or foreign case studies. Focus ONLY on the local infrastructure (barangay roads, provincial highways, and storage facilities). Avoid jargon or overly academic language. Ensure recommendations are realistic and practical at the regional level while following the budget
+
 Format: Output in clear markdown with the following structure: Situation Overview (paragraph), Current Issues/Constraints (bullet points), and Interventions (exactly 3 feasible steps). Provide headings "###" per main section."
 
 #### 2. Prompt Battle Ledger
