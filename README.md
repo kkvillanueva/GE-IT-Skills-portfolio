@@ -61,7 +61,7 @@ Format: Output in clear markdown with the following structure: Situation Overvie
 | Version | Prompt Modifier Added | Output Quality Reflection |
 | :--- | :--- | :--- |
 | V1 | "Prepare a plan to help minimize farmers' post-harvest losses." | Very broad. Brought up issues from other regions and municipalities instead of Davao. |
-| V2 | Added role in the Davao Region LGU and specific tone/language required | Output is now more focuse on Davao. However, it only generates an entire paragraph with no subheadings. |
+| V2 | Added role in the Davao Region LGU and specific tone/language required | Output is now more focused on Davao. However, it only generates an entire paragraph with no subheadings and had emojis. |
 | V3 | Specified exact format of the final output with subheadings | Final prompt. Follows the exact formatting and output instructions. |
 
 #### 3. Visual Branding Asset
