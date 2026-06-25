@@ -42,7 +42,7 @@ Hi, I'm [*Krislyn*](https://github.com/kkvillanueva/GE-IT-Skills-portfolio/blob/
 
 ---
 
-<h1 align="center">AI EXPLORATION</h1>
+<h1 align="center">AI EXPLORATION</h2>
 
 ### Davao Region Localized Communication Prompt System
 
